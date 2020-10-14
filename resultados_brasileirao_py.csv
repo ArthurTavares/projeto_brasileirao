@@ -1,0 +1,116 @@
+Data; Rodada  ;Mandante;Gols_mandante;x;Gols_visitante;Visitante;Estadio;Cidade
+08/08/2020; 1 ;Fortaleza;0;X;2;Athletico/PR;CastelÆo;Fortaleza
+08/08/2020; 1 ;Coritiba;0;X;1;Internacional;Couto Pereira;Curitiba
+08/08/2020; 1 ;Sport;3;X;2;Cear ;Ilha do Retiro;Recife
+09/08/2020; 1 ;Flamengo;0;X;1;Atl‚tico/MG;MaracanÆ;Rio de Janeiro
+09/08/2020; 1 ;Santos;1;X;1;RB Bragantino;Vila Belmiro;Santos
+09/08/2020; 1 ;Grˆmio;1;X;0;Fluminense;Arena do Grˆmio;Porto Alegre
+12/08/2020; 2 ;Athletico/PR;2;X;1;Goi s;Arena da Baixada;Curitiba
+12/08/2020; 2 ;Atl‚tico/MG;3;X;2;Corinthians;MineirÆo;Belo Horizonte
+12/08/2020; 2 ;RB Bragantino;1;X;1;Botafogo;Nabi Abi Chedid;Bragan‡a Paulista
+12/08/2020; 2 ;Atl‚tico/GO;3;X;0;Flamengo;Ol¡mpico;Goiƒnia
+12/08/2020; 2 ;Bahia;1;X;0;Coritiba;Pitua‡u;Salvador
+12/08/2020; 2 ;Cear ;1;X;1;Grˆmio;CastelÆo;Fortaleza
+12/08/2020; 2 ;Fluminense;1;X;1;Palmeiras;MaracanÆ;Rio de Janeiro
+13/08/2020; 2 ;SÆo Paulo;1;X;0;Fortaleza;Morumbi;SÆo Paulo
+13/08/2020; 2 ;Internacional;2;X;0;Santos;Beira-Rio;Porto Alegre
+13/08/2020; 2 ;Vasco;2;X;0;Sport;SÆo Janu rio;Rio de Janeiro
+15/08/2020; 3 ;Grˆmio;0;X;0;Corinthians;Arena do Grˆmio;Porto Alegre
+15/08/2020; 3 ;Coritiba;0;X;1;Flamengo;Couto Pereira;Curitiba
+15/08/2020; 3 ;Palmeiras;1;X;1;Goi s;Allianz Parque;SÆo Paulo
+16/08/2020; 3 ;Atl‚tico/MG;2;X;0;Cear ;MineirÆo;Belo Horizonte
+16/08/2020; 3 ;Bahia;2;X;1;RB Bragantino;Pitua‡u;Salvador
+16/08/2020; 3 ;Vasco;2;X;1;SÆo Paulo;SÆo Janu rio;Rio de Janeiro
+16/08/2020; 3 ;Fluminense;2;X;1;Internacional;MaracanÆ;Rio de Janeiro
+16/08/2020; 3 ;Atl‚tico/GO;1;X;1;Sport;Ol¡mpico;Goiƒnia
+16/08/2020; 3 ;Fortaleza;0;X;0;Botafogo;CastelÆo;Fortaleza
+16/08/2020; 3 ;Santos;3;X;1;Athletico/PR;Vila Belmiro;Santos
+19/08/2020; 4 ;Athletico/PR;0;X;1;Palmeiras;Arena da Baixada;Curitiba
+19/08/2020; 4 ;Botafogo;2;X;1;Atl‚tico/MG;Nilton Santos;Rio de Janeiro
+20/08/2020; 4 ;Cear ;0;X;3;Vasco;CastelÆo;Fortaleza
+19/08/2020; 4 ;Corinthians;3;X;1;Coritiba;ItaquerÆo;SÆo Paulo
+19/08/2020; 4 ;Flamengo;1;X;1;Grˆmio;MaracanÆ;Rio de Janeiro
+19/08/2020; 4 ;Goi s;1;X;3;Fortaleza;Serra Dourada;Goiƒnia
+19/08/2020; 4 ;Internacional;3;X;0;Atl‚tico/GO;Beira-Rio;Porto Alegre
+19/08/2020; 4 ;RB Bragantino;2;X;1;Fluminense;Nabi Abi Chedid;Bragan‡a Paulista
+20/08/2020; 4 ;SÆo Paulo;1;X;1;Bahia;Morumbi;SÆo Paulo
+20/08/2020; 4 ;Sport;0;X;1;Santos;Ilha do Retiro;Recife
+22/08/2020; 5 ;Athletico/PR;0;X;1;Fluminense;Arena da Baixada;Curitiba
+23/08/2020; 5 ;Cear ;2;X;0;Bahia;CastelÆo;Fortaleza
+23/08/2020; 5 ;Flamengo;1;X;1;Botafogo;MaracanÆ;Rio de Janeiro
+22/08/2020; 5 ;Goi s;2;X;0;Atl‚tico/GO;Serra Dourada;Goiƒnia
+23/08/2020; 5 ;Internacional;1;X;0;Atl‚tico/MG;Beira-Rio;Porto Alegre
+23/08/2020; 5 ;Palmeiras;2;X;1;Santos;Allianz Parque;SÆo Paulo
+23/08/2020; 5 ;RB Bragantino;1;X;2;Coritiba;Nabi Abi Chedid;Bragan‡a Paulista
+23/08/2020; 5 ;Sport;0;X;1;SÆo Paulo;Ilha do Retiro;Recife
+23/08/2020; 5 ;Vasco;0;X;0;Grˆmio;SÆo Janu rio;Rio de Janeiro
+26/08/2020; 11 ;SÆo Paulo;1;X;0;Athletico/PR;Morumbi;SÆo Paulo
+26/08/2020; 5 ;Corinthians;1;X;1;Fortaleza;ItaquerÆo;SÆo Paulo
+30/08/2020; 6 ;Atl‚tico/GO;0;X;2;Cear ;Serra Dourada;Goiƒnia
+29/08/2020; 6 ;Bahia;1;X;1;Palmeiras;Fonte Nova;Salvador
+29/08/2020; 6 ;Botafogo;0;X;2;Internacional;Nilton Santos;Rio de Janeiro
+30/08/2020; 6 ;Coritiba;1;X;0;Sport;Couto Pereira;Curitiba
+29/08/2020; 6 ;Fluminense;2;X;1;Vasco;MaracanÆ;Rio de Janeiro
+29/08/2020; 6 ;Fortaleza;3;X;0;RB Bragantino;CastelÆo;Fortaleza
+30/08/2020; 6 ;Santos;0;X;1;Flamengo;Vila Belmiro;Santos
+30/08/2020; 6 ;SÆo Paulo;2;X;1;Corinthians;Morumbi;SÆo Paulo
+02/09/2020; 7 ;Athletico/PR;1;X;1;RB Bragantino;Arena da Baixada;Curitiba
+03/09/2020; 7 ;Atl‚tico/MG;3;X;0;SÆo Paulo;Independˆncia;Belo Horizonte
+02/09/2020; 7 ;Bahia;3;X;5;Flamengo;Fonte Nova;Salvador
+02/09/2020; 7 ;Botafogo;0;X;0;Coritiba;Nilton Santos;Rio de Janeiro
+02/09/2020; 7 ;Cear ;1;X;0;Fortaleza;CastelÆo;Fortaleza
+02/09/2020; 7 ;Fluminense;1;X;1;Atl‚tico/GO;MaracanÆ;Rio de Janeiro
+02/09/2020; 7 ;Goi s;1;X;2;Corinthians;Serra Dourada;Goiƒnia
+03/09/2020; 7 ;Grˆmio;1;X;2;Sport;Arena do Grˆmio;Porto Alegre
+02/09/2020; 7 ;Palmeiras;1;X;1;Internacional;Allianz Parque;SÆo Paulo
+02/09/2020; 7 ;Santos;2;X;2;Vasco;Vila Belmiro;Santos
+06/09/2020; 8 ;Atl‚tico/GO;1;X;1;Grˆmio;Serra Dourada;Goiƒnia
+05/09/2020; 8 ;Cear ;0;X;1;Santos;CastelÆo;Fortaleza
+05/09/2020; 8 ;Corinthians;2;X;2;Botafogo;ItaquerÆo;SÆo Paulo
+06/09/2020; 8 ;Coritiba;0;X;1;Atl‚tico/MG;Couto Pereira;Curitiba
+05/09/2020; 8 ;Flamengo;2;X;1;Fortaleza;MaracanÆ;Rio de Janeiro
+06/09/2020; 8 ;Internacional;2;X;2;Bahia;Beira-Rio;Porto Alegre
+06/09/2020; 8 ;RB Bragantino;1;X;2;Palmeiras;Nabi Abi Chedid;Bragan‡a Paulista
+06/09/2020; 8 ;SÆo Paulo;3;X;1;Fluminense;Morumbi;SÆo Paulo
+06/09/2020; 8 ;Sport;2;X;1;Goi s;Ilha do Retiro;Recife
+06/09/2020; 8 ;Vasco;1;X;0;Athletico/PR;SÆo Janu rio;Rio de Janeiro
+09/09/2020; 9 ;Athletico/PR;1;X;1;Botafogo;Arena da Baixada;Curitiba
+10/09/2020; 9 ;Bahia;0;X;2;Grˆmio;Fonte Nova;Salvador
+10/09/2020; 9 ;Corinthians;0;X;2;Palmeiras;ItaquerÆo;SÆo Paulo
+09/09/2020; 9 ;Fluminense;1;X;2;Flamengo;MaracanÆ;Rio de Janeiro
+09/09/2020; 9 ;Fortaleza;1;X;0;Sport;CastelÆo;Fortaleza
+09/09/2020; 9 ;Goi s;3;X;3;Coritiba;Serra Dourada;Goiƒnia
+10/09/2020; 9 ;Internacional;2;X;0;Cear ;Beira-Rio;Porto Alegre
+09/09/2020; 9 ;Santos;3;X;1;Atl‚tico/MG;Vila Belmiro;Santos
+09/09/2020; 9 ;SÆo Paulo;1;X;1;RB Bragantino;Morumbi;SÆo Paulo
+10/09/2020; 9 ;Vasco;1;X;2;Atl‚tico/GO;SÆo Janu rio;Rio de Janeiro
+12/09/2020; 10 ;Athletico/PR;1;X;0;Coritiba;Arena da Baixada;Curitiba
+13/09/2020; 10 ;Atl‚tico/MG;2;X;1;RB Bragantino;Independˆncia;Belo Horizonte
+13/09/2020; 10 ;Bahia;0;X;1;Atl‚tico/GO;Fonte Nova;Salvador
+13/09/2020; 10 ;Botafogo;2;X;3;Vasco;Nilton Santos;Rio de Janeiro
+13/09/2020; 10 ;Cear ;2;X;0;Flamengo;CastelÆo;Fortaleza
+13/09/2020; 10 ;Fluminense;2;X;1;Corinthians;MaracanÆ;Rio de Janeiro
+13/09/2020; 10 ;Goi s;1;X;0;Internacional;Serra Dourada;Goiƒnia
+13/09/2020; 10 ;Grˆmio;1;X;2;Fortaleza;Arena do Grˆmio;Porto Alegre
+13/09/2020; 10 ;Palmeiras;2;X;2;Sport;Allianz Parque;SÆo Paulo
+12/09/2020; 10 ;Santos;2;X;2;SÆo Paulo;Vila Belmiro;Santos
+19/09/2020; 11 ;Atl‚tico/GO;3;X;4;Atl‚tico/MG;Serra Dourada;Goiƒnia
+20/09/2020; 11 ;Botafogo;0;X;0;Santos;Nilton Santos;Rio de Janeiro
+16/09/2020; 11 ;Corinthians;3;X;2;Bahia;ItaquerÆo;SÆo Paulo
+20/09/2020; 11 ;Coritiba;1;X;0;Vasco;Couto Pereira;Curitiba
+19/09/2020; 11 ;Fortaleza;1;X;0;Internacional;CastelÆo;Fortaleza
+20/09/2020; 11 ;Grˆmio;1;X;1;Palmeiras;Arena do Grˆmio;Porto Alegre
+19/09/2020; 11 ;RB Bragantino;4;X;2;Cear ;Nabi Abi Chedid;Bragan‡a Paulista
+20/09/2020; 11 ;Sport;1;X;0;Fluminense;Ilha do Retiro;Recife
+26/09/2020; 12 ;Athletico/PR;1;X;0;Bahia;Arena da Baixada;Curitiba
+26/09/2020; 12 ;Atl‚tico/GO;1;X;1;Botafogo;Serra Dourada;Goiƒnia
+26/09/2020; 12 ;Atl‚tico/MG;3;X;1;Grˆmio;Independˆncia;Belo Horizonte
+27/09/2020; 12 ;Cear ;2;X;2;Goi s;CastelÆo;Fortaleza
+26/09/2020; 12 ;Fluminense;4;X;0;Coritiba;MaracanÆ;Rio de Janeiro
+26/09/2020; 12 ;Internacional;1;X;1;SÆo Paulo;Beira-Rio;Porto Alegre
+27/09/2020; 12 ;Palmeiras;1;X;1;Flamengo;Allianz Parque;SÆo Paulo
+26/09/2020; 12 ;Santos;1;X;1;Fortaleza;Vila Belmiro;Santos
+26/09/2020; 12 ;Sport;1;X;0;Corinthians;Ilha do Retiro;Recife
+27/09/2020; 12 ;Vasco;1;X;1;RB Bragantino;SÆo Janu rio;Rio de Janeiro
+30/09/2020; 1 ;Corinthians;0;X;1;Atl‚tico/GO;ItaquerÆo;SÆo Paulo
+30/09/2020; 1 ;Botafogo;1;X;2;Bahia;Serra Dourada;Goiƒnia
